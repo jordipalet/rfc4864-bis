@@ -2,11 +2,10 @@
 
 
 
-IPv6 Operations                                        J. Palet Martinez
-Internet-Draft                                          The IPv6 Company
-Intended status: Informational                           B. E. Carpenter
-Expires: 20 January 2027                          University of Auckland
-                                                            19 July 2026
+IPv6 Operations                                          B. E. Carpenter
+Internet-Draft                                    University of Auckland
+Intended status: Informational                              19 July 2026
+Expires: 20 January 2027
 
 
                    Local Network Protection for IPv6
@@ -72,7 +71,7 @@ Table of Contents
    4.  IANA Considerations
    5.  Normative References
    Acknowledgments
-   Authors' Addresses
+   Author's Address
 
 1.  Introduction
 
@@ -109,16 +108,7 @@ Acknowledgments
 
    TODO acknowledge.
 
-Authors' Addresses
-
-   Jordi Palet Martinez
-   The IPv6 Company
-   Molino de la Navata, 75
-   28420 La Navata - Galapagar (Madrid)
-   Spain
-   Email: jordi.palet@theipv6company.com
-   URI:   http://www.theipv6company.com/
-
+Author's Address
 
    Brian E. Carpenter
    University of Auckland
@@ -126,3 +116,4 @@ Authors' Addresses
    Auckland 1142
    New Zealand
    Email: brian.e.carpenter@gmail.com
+   URI:   http://www.theipv6company.com/
