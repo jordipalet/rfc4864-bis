@@ -26,11 +26,16 @@ venue:
 author:
  -
     fullname: Jordi Palet Martinez
-    initials=J
-    surname=Palet Martinez
+    initials: J
+    surname: Palet Martinez
     organization: The IPv6 Company
     email: jordi.palet@theipv6company.com
     street: Molino de la Navata, 75
+    city: La Navata - Galapagar
+    region: (Madrid)
+    code: 28420
+    country: Spain
+    uri: http://www.theipv6company.com/
 
 normative:
 
