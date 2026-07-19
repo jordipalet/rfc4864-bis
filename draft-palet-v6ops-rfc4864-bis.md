@@ -37,7 +37,6 @@ author:
     country: Spain
     uri: http://www.theipv6company.com/
 
-author:
  -
     fullname: Brian E. Carpenter
     initials: B. E.
