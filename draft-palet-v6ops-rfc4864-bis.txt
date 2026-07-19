@@ -2,14 +2,14 @@
 
 
 
-v6ops                                                     J. P. Martinez
+IPv6 Operations                                        J. Palet Martinez
 Internet-Draft                                          The IPv6 Company
 Intended status: Informational                              19 July 2026
 Expires: 20 January 2027
 
 
                    Local Network Protection for IPv6
-                     draft-palet-v6ops-rfc4864-bis
+                  draft-palet-v6ops-rfc4864-bis-latest
 
 Abstract
 
@@ -20,16 +20,17 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-palet-v6ops-
-   rfc4864/.
+   https://jordipalet.github.io/rfc4864-bis/draft-palet-v6ops-
+   rfc4864-bis.html.  Status information for this document may be found
+   at https://datatracker.ietf.org/doc/draft-palet-v6ops-rfc4864-bis/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   Discussion of this document takes place on the IPv6 Operations
+   Working Group mailing list (mailto:v6ops@ietf.org), which is archived
+   at https://mailarchive.ietf.org/arch/browse/v6ops/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/v6ops/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/jordipalet/rfc4864-bis.
 
 Status of This Memo
 
@@ -111,4 +112,8 @@ Author's Address
 
    Jordi Palet Martinez
    The IPv6 Company
+   Molino de la Navata, 75
+   28420 La Navata - Galapagar (Madrid)
+   Spain
    Email: jordi.palet@theipv6company.com
+   URI:   http://www.theipv6company.com/
