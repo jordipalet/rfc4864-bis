@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: Ops
-workgroup: v6ops
+area: "Operations and Management"
+workgroup: "IPv6 Operations"
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "IPv6 Operations"
+  type: "Working Group"
+  mail: "v6ops@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/v6ops/"
+  github: "jordipalet/rfc4864-bis"
+  latest: "https://jordipalet.github.io/rfc4864-bis/draft-palet-v6ops-rfc4864-bis.html"
 
 author:
  -
