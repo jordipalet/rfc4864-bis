@@ -2,8 +2,8 @@
 
 
 
-IPv6 Operations                                        J. Palet Martinez
-Internet-Draft                                          The IPv6 Company
+IPv6 Operations                                          B. E. Carpenter
+Internet-Draft                                    University of Auckland
 Intended status: Informational                              19 July 2026
 Expires: 20 January 2027
 
@@ -110,10 +110,10 @@ Acknowledgments
 
 Author's Address
 
-   Jordi Palet Martinez
-   The IPv6 Company
-   Molino de la Navata, 75
-   28420 La Navata - Galapagar (Madrid)
-   Spain
-   Email: jordi.palet@theipv6company.com
+   Brian E. Carpenter
+   University of Auckland
+   PB 92019
+   Auckland 1142
+   New Zealand
+   Email: brian.e.carpenter@gmail.com
    URI:   http://www.theipv6company.com/
