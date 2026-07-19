@@ -19,8 +19,8 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Local Network Protection for IPv6"
+abbrev: "Local Network Protection for IPv6"
 category: info
 
 docname: draft-palet-v6ops-rfc4864-bis
