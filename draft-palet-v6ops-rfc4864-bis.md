@@ -43,7 +43,7 @@ author:
     organization abbrev: Univ. of Auckland
     organization: University of Auckland
     street: School of Computer Science
-    streetPB 92019
+    street: PB 92019
     country: New Zealand
     code: 1142
     city: Auckland
