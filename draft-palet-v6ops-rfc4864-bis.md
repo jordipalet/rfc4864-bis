@@ -37,6 +37,22 @@ author:
     country: Spain
     uri: http://www.theipv6company.com/
 
+    fullname: Brian E. Carpenter
+    initials: B. E.
+    surname: Carpenter
+    organization abbrev: Univ. of Auckland
+    organization: University of Auckland
+street>School of Computer Science</street>
+          <street>PB 92019</street>
+          <country>New Zealand</country>
+          <code>1142</code>
+          <region/>
+          <city>Auckland</city>
+        </postal>
+        <email>brian.e.carpenter@gmail.com</email>
+      </address>
+    </author>
+
 normative:
 
 informative:
